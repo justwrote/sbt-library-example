@@ -1,0 +1,5 @@
+
+$ sbt
+$ > compile
+
+It should just work. Now remove the line "externalPom()" and try again.
